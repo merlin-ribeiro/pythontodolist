@@ -1,6 +1,6 @@
 # Gerenciador de Tarefas (To-Do List) com Tkinter
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshots/screenshot.png)
 
 ## Visão Geral
 
