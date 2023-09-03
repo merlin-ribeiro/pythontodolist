@@ -44,7 +44,7 @@ O Gerenciador de Tarefas é uma aplicação Python que oferece uma solução pr�
 
 ## Capturas de Tela
 
-![Screenshot](screenshot.png) ![Screenshot1](screenshot1.png) ![Screenshot2](screenshot2.png) ![Screenshot3](screenshot3.png)
+![Screenshot](screenshots/screenshot.png) ![Screenshot1](screenshots/screenshot1.png) ![Screenshot2](screenshot/screenshot2.png) ![Screenshot3](screenshot/screenshot3.png)
 
 ## Contribuições
 
